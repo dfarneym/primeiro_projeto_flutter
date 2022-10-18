@@ -6,6 +6,7 @@ import './questionario.dart';
 
 void main() => runApp(PerguntaApp());
 
+//APP
 class _PerguntaAppState extends State<PerguntaApp> {
   var _perguntaSelecionada = 0;
   var _pontuacaoTotal = 0;
